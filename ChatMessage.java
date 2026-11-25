@@ -1,5 +1,5 @@
 package pediatriccare;
-//////////////////////
+////////////////////
 public class ChatMessage {
     private final String senderName;
     private final String recipientName;
